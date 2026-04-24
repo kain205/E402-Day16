@@ -80,7 +80,7 @@ If we deploy 50 times in the same vertical (ví dụ: xử lý tài liệu cho 5
 ---
 ## 7. Positioning Note (2 sentences)
 **What we are:**
-> Course4Y là một Lớp màng lọc điều phối (Orchestration Layer) sử dụng AI Agent để tự động ráp nối tài liệu cá nhân hỗn loạn của sinh viên Y khoa vào một lộ trình ôn thi chuẩn xác.
+> Synapsy là một Lớp màng lọc điều phối (Orchestration Layer) sử dụng AI Agent để tự động ráp nối tài liệu cá nhân hỗn loạn của sinh viên Y khoa vào một lộ trình ôn thi chuẩn xác.
 
 **What we are not / not yet:**
 > Chúng tôi không phải là một nhà xuất bản tạo sẵn thư viện nội dung học thuật tĩnh, và tuyệt đối không phải là một công cụ AI tạo chữ chung chung có nguy cơ sinh ra kiến thức sai lệch.
